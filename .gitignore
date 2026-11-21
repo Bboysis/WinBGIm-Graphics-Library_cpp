@@ -4,7 +4,8 @@
 *.obj
 *.exe
 *.out
-
+*.layout
+*.win
 # IDE files
 .vscode/
 .devcontainer/

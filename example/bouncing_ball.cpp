@@ -18,11 +18,11 @@ int main()
         cleardevice();
 
         // Background
-        setbkcolor(LIGHTCYAN);
+        setbkcolor(BLUE);
 
         // Ball
         setcolor(RED);
-        setfillstyle(SOLID_FILL, RED);
+        setfillstyle(SOLID_FILL, YELLOW);
         fillellipse(x, y, radius, radius);
 
         // Move ball
